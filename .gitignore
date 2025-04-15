@@ -1,0 +1,5 @@
+*.swp
+.venv
+__pycache__/
+figs/*.pdf
+.DS_Store
